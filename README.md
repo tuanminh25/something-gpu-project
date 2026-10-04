@@ -12,6 +12,13 @@ Day 2: 4/10/26
 
 + Vulkan is a cross platform stuff that works on  Window, Android and work with multiple hardware like NVIDIA, AMD, Intel (maybe ehe). And it offers both COMPUTATION and GRAPHIC
 
+Oh and to my future self, a hint is that 
+
+- The os will need a screen beyond text mode eventually. Drawing directly into frame buffer meaning writing pixels by hand, rastering own shape. That is GRAPHIC from very bottom, with notthing between us and the bare metal
+
+- Trading system would need an UI to show book and latency chart
+
+- Blender itself is graphic, we are exploring from Artist first rather than from tech
 
 # This is something GPU related project
 
